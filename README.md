@@ -5,3 +5,4 @@
 
 roulette-1.0-SNAPSHOT.jar - Рулетка
 
+TikTokBridgeNative-1.0-SNAPSHOT.jar - спавн мобов с именами дарителей
